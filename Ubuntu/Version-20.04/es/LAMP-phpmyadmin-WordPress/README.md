@@ -6,7 +6,7 @@ Puede usar este cupon para obtener $100 en creditos que lo puedes usar para crea
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=1f68e98f66e2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-<img src="../images/es/LAMP-phpmyadmin-WordPress/Tutorial_Instalar-Lamp-phpmyadmin-ssl-Wordpress-Ubuntu20.04_DigitalOcean.png" alt="Portada-Tutorial-Lamp-WordPress-Ubuntu20.04" height="600">
+<img src="../images/es/../Tutorial_Instalar-Lamp-phpmyadmin-ssl-Wordpress-Ubuntu20.04_DigitalOcean.png" alt="Portada-Tutorial-Lamp-WordPress-Ubuntu20.04" height="600">
 
 ## Paso 1: Crearemos un nuevo Droplet en DIGITAL OCEAN
 
